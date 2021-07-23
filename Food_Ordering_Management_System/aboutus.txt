@@ -1,0 +1,26 @@
+	--> Dr. Jitender Rajpurohit
+
+	--> Abhay Jhouta
+
+	--> Abhishek Kashniyal
+
+	--> Abhishek Gupta
+
+	--> Ankit Gupta
+
+
+
+
+
+Program Instructions:
+
+
+1. Admin Section: Administrator window to access menu and order section.
+
+	a. Menu Section: used to display and add menu.
+
+	b. Order Section: use to display the customers and orders.
+
+2. Customer Section: Customer window to register and place order.
+
+3. Exit Section: To exit from the program.
