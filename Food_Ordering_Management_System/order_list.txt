@@ -1,0 +1,58 @@
+Item Count: 2
+Order Number: 1
+Customer Name: A G
+Food Item:	Quantity
+Spring Roll:	1
+Potato Bites:	1
+
+Item Count: 4
+Order Number: 2
+Customer Name: A V
+Food Item:	Quantity
+Potato Bites:	2
+Spring Roll:	2
+
+Item Count: 3
+Order Number: 3
+Customer Name: A M
+Food Item:	Quantity
+Spring Roll:	1
+Fench Fries:	1
+Potato Bites:	1
+
+Item Count: 4
+Order Number: 4
+Customer Name: A V
+Food Item:	Quantity
+Spring Roll:	1
+Cold Drink:	2
+Potato Bites:	1
+
+Item Count: 2
+Order Number: 5
+Customer Name: A K
+Food Item:	Quantity
+Ice Cream:	1
+Potato Bites:	1
+
+Item Count: 1
+Order Number: 6
+Customer Name: A L
+Food Item:	Quantity
+Spring Roll:	1
+
+Item Count: 5
+Order Number: 7
+Customer Name: A E
+Food Item:	Quantity
+Spring Roll:	2
+Spring Roll:	2
+Cold Coffee:	1
+
+Item Count: 2
+Order Number: 8
+Customer Name: A O
+Food Item:	Quantity
+Spring Roll:	1
+Potato Bites:	1
+
